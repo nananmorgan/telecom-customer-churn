@@ -48,3 +48,10 @@ telecom-customer-churn/
 ## How to Run
 1. Install dependencies: `pip install pandas numpy matplotlib seaborn scikit-learn`
 2. Open `telecom_churn_analysis.ipynb` in Jupyter or VS Code and run all cells
+
+  
+---
+  
+*Part of my [Data Science Portfolio](https://github.com/nananmorgan/data-science-portfolio)*
+  
+---
